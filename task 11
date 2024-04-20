@@ -1,0 +1,17 @@
+public class Vehicle {
+    public static void main(String[]args) {
+        String makeofvehicle = (String) "lamborghini";
+        String model = (String) "huracan";
+        System.out.println(makeofvehicle);
+        System.out.println(model);
+        int manufacturingyear = 2014;
+        System.out.println(manufacturingyear);
+
+    }
+    }
+public class car {
+    public static void main(String[]args){
+        int doors= 2;
+        System.out.println(doors);
+    }
+}
